@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PranjalKhatri
+- 👋 Hi, I’m @Pop
 - 👀 I’m interested in Computer science
 - 🌱 I’m currently learning ¯\_(ツ)_/¯
 - 💞️ I’m looking to collaborate on some short coding projects
