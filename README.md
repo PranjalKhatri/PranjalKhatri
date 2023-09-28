@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pop
 - 👀 I’m interested in Computer science 
-- 🌱 I’m currently learning ¯\_(ツ)_/¯
+- 🌱 I’m currently learning  ¯\_(ツ)_/¯
 - 💞️ I’m looking to collaborate on some short coding projects
 - 📫 How to reach me : PopsGaming
 - 😁 UPDATE(after 4 years) : now i am studying CSE in IIT
