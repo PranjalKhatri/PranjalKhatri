@@ -1,23 +1,18 @@
 # Hi there, I’m Pranjal Khatri 👋
 
-**🧑‍🎓 Sophomore @ IIT Guwahati**, majoring in Computer Science & Engineering  
-🏆 Expert rank on *Codeforces* | Competitive Programmer  
+🎓 **Prefinal Year CSE Undergrad @ IIT Guwahati** 
 💡 Passionate about algorithms, full-stack development, and open-source
 
 ---
 
 ## 🚀 About Me
-- 🎯 Building efficient and scalable solutions with C++, Python, and JavaScript  
+- 🎯 Like to Explore Language features and their implementations.  
 - 📚 Active in IIT Guwahati Coding Club, collaborating on workshops & hackathons  
-- 🌱 Currently exploring **machine learning” and **distributed systems**  
-- 🔍 Avid reader of psychology and history—always swapping books!
 
 ---
 
 ## 🛠️ What I’m Working On
-- Competitive programming challenges (Codeforces, LeetCode)
-- Open-source contributions and personal full-stack projects
-- Developing a modular web app as part of IITG’s Tech Club efforts
+- Coding Challenges inspired from [The Coding Train](https://www.youtube.com/@TheCodingTrain)
 
 ---
 
@@ -31,34 +26,21 @@
 ## 🧠 Skills & Tools
 | Language       | Frameworks / Tools           | Databases        |
 |---------------|------------------------------|------------------|
-| C++, Python, JS | React, Node.js, Express.js | MongoDB, SQLite  |
+| C++, Python, JS | Node.js, Express.js | MongoDB, SQLite  |
 
-- Version Control: Git, GitHub  
-- Containerization & CI/CD: Docker, GitHub Actions  
-- DevOps basics & experience with AWS
-
+- Version Control: Git, GitHub 
 ---
 
 ## 🌱 Recent Activity
-- Contributed to open-source during **June 2025** across multiple repos  
-- Participated in monthly competitive programming contests (Codeforces Round)
-- Collaborated on a **web app project** for IITG Tech Club
+- Completed PathTracer in C++
 
 <!-- Optionally, include GitHub Activity Card here -->
 
 ---
 
 ## 📫 How to Reach Me
-- ✉️ **Email**: pranjal.khatri@example.com  
-- 💼 **LinkedIn**: [linkedin.com/in/pranjal‑khatri](https://www.linkedin.com/in/pranjal-khatri-6672a029a) :contentReference[oaicite:1]{index=1}  
-- 🖥️ **Codeforces**: pranjal_khatri (Expert)
-
----
-
-## 🔗 Explore My Repositories
-- **`awesome-competitive-coding`** – Collection of CP problems with solutions & insights  
-- **`iitg-tech-club-webapp`** – Collaborative full‑stack project with Node.js & MongoDB  
-- **`open-source-contributions`** – Recent PRs from June 2025 across open-source repos
+- ✉️ **Email**: pranjalkhatri950@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/pranjal‑khatri](https://www.linkedin.com/in/pranjal-khatri-6672a029a)
 
 ---
 
